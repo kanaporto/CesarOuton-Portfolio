@@ -16,6 +16,21 @@ This document describes the proposed responsibilities and contracts behind the O
 
 These responsibilities may share infrastructure. They are separated logically so that a model's explanation cannot bypass enforcement.
 
+## Familiar enterprise integrations
+
+The prototype used Mattermost as a no-cost chat option. It is an interchangeable interface, not a dependency of the decision core. A Slack or Microsoft Teams adapter could receive requests and return progress, approval requests and outcomes; the organisation's authenticated identity and approval policy would still determine authority. Chat content alone does not grant permission.
+
+For HR, a Workday adapter—or an adapter for another HR platform with a suitable API—could supply the permitted people, absence and organisational data required by the workflow. Writes would require separately authorised operations. Workday offers REST and SOAP web services; the choice depends on the operation exposed and enabled in the customer's environment.
+
+| Integration boundary | Proposed adapter | Validation needed |
+|---|---|---|
+| Chat requests and updates | Slack or Microsoft Teams | Identity mapping, permitted channels, delivery and retry behaviour |
+| HR context and authorised changes | Workday or another HR platform API | Available operations, field mapping, access scopes and authoritative records |
+
+These are extension paths, not integrations demonstrated in this package. Replacing an adapter preserves the design's policy and verification responsibilities; it does not imply identical provider capabilities.
+
+API references: [Slack APIs](https://docs.slack.dev/apis/), [Microsoft Teams messaging via Microsoft Graph](https://learn.microsoft.com/graph/api/chatmessage-post), [Workday integration APIs](https://www.workday.com/content/dam/web/en-us/documents/datasheets/datasheet-workday-cloud-connect-platform.pdf).
+
 ## Discovering a capability
 
 The core receives a versioned manifest of authorised operations. Each describes its inputs, outputs, effects, errors and verification method. Administrative reset, fault injection and evaluation reference answers remain outside normal discovery.
