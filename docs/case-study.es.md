@@ -59,6 +59,10 @@ La reserva presupuestaria cuenta compromisos confirmados y reservas pendientes; 
 
 Cuando una API no permite escrituras condicionadas por versión, una pasarela puede coordinar los escritores que la utilizan. Si no puede excluir cambios externos y la operación resulta insegura, bloquea la automatización y deriva a una vía controlada. Leer justo antes de escribir no elimina por sí solo esa carrera.
 
+## Integraciones con herramientas conocidas
+
+La interfaz de chat es intercambiable: el prototipo utilizó Mattermost como opción sin coste, pero el mismo diseño podría conectarse a Slack o Microsoft Teams mediante sus APIs. Los datos de recursos humanos podrían proceder de Workday o de otra plataforma de RR. HH. mediante un conector API autorizado. Cada integración necesita sus propios permisos, correspondencia de datos y validación; se mantienen las responsabilidades de control y verificación.
+
 ## Extender la solución
 
 Cobertura e incidentes son dos usos propuestos del diseño. Incorporar empleados o gestionar dispositivos reutilizaría investigación, control y verificación; cada dominio necesita sus propios conectores validados, políticas y criterios de éxito. Compartir un núcleo no significa disponer automáticamente de esos permisos o integraciones.
