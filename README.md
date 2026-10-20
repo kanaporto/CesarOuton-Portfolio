@@ -46,6 +46,8 @@ flowchart LR
 
 These are responsibilities, not a requirement to deploy a service for every box. Connectors provide access to existing systems. A separate execution gate checks authority and conditions before changes. Verification then examines the resulting state.
 
+The chat interface is replaceable: the prototype used Mattermost as a no-cost option, while the same design could connect to Slack or Microsoft Teams through their supported APIs. HR data could come from Workday or another HR platform through an authorised API connector. Each integration needs its own permissions, data mapping and validation; the policy and verification responsibilities stay the same.
+
 The [architecture](docs/architecture.md) explains budget reservations, concurrent changes and safe recovery when only part of a plan succeeds.
 
 ## The same approach, a different problem
