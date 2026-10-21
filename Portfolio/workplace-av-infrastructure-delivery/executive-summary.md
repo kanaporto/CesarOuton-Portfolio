@@ -1,4 +1,4 @@
-# End-to-End Workplace AV Infrastructure Delivery
+# Infrastructure Project Management: HQ Workplace AV Refit
 ## Executive summary
 
 - **Project:** I led the client-side AV workstream for an HQ refit supporting remote-first work, optional office attendance and global team gatherings.
