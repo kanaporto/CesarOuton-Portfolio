@@ -1,6 +1,8 @@
-# Milano Cortina 2026 — executive project summary
+# End-to-End IT Delivery for a Major International Event
+## Executive Summary
 
-**BizTech IT readiness · Multi-site service delivery · Support-team leadership**  
+*Multi-site operations · Support-team leadership · Service continuity*  
+*Project context: Milano Cortina 2026 Winter Olympics*  
 *Portfolio case study · Employer anonymised · First-person account*
 
 ## Project at a glance
