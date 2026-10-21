@@ -84,4 +84,4 @@ ORBIT shows how I approach automation from operational responsibility: define th
 
 ## Additional portfolio case study
 
-[Milano Cortina 2026 — IT readiness, multi-site operations and delivery leadership](Portfolio/milano-cortina-2026/README.md)
+[End-to-End IT Delivery for a Major International Event](Portfolio/milano-cortina-2026/README.md)
