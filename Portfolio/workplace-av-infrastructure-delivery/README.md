@@ -1,4 +1,4 @@
-# End-to-End Workplace AV Infrastructure Delivery
+# Infrastructure Project Management: HQ Workplace AV Refit
 ## Infrastructure project management · Workplace technology · Cross-functional delivery
 
 ### Project objective
