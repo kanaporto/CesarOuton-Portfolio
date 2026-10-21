@@ -1,4 +1,5 @@
-# Milano Cortina 2026 — complete portfolio case study
+# End-to-End IT Delivery for a Major International Event
+## Complete Case Study · Milano Cortina 2026
 
 This is the complete project case study, covering the project context, my remit, all lifecycle phases, cross-functional workstreams, challenges, outcomes and evidence boundaries. For the concise recruiter-facing version, see [`executive-summary.md`](executive-summary.md). The employer is anonymised. I map the work retrospectively to ITIL Version 5 to explain the service lifecycle and management practices; this does not mean the organisation formally adopted ITIL for the project.
 
