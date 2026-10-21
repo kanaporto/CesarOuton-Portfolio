@@ -85,3 +85,5 @@ ORBIT shows how I approach automation from operational responsibility: define th
 ## Additional portfolio case study
 
 [End-to-End IT Delivery for a Major International Event](Portfolio/milano-cortina-2026/README.md)
+
+[End-to-End Workplace AV Infrastructure Delivery](Portfolio/workplace-av-infrastructure-delivery/README.md)
