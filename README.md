@@ -86,4 +86,4 @@ ORBIT shows how I approach automation from operational responsibility: define th
 
 [End-to-End IT Delivery for a Major International Event](Portfolio/milano-cortina-2026/README.md)
 
-[End-to-End Workplace AV Infrastructure Delivery](Portfolio/workplace-av-infrastructure-delivery/README.md)
+[Infrastructure Project Management: HQ Workplace AV Refit](Portfolio/workplace-av-infrastructure-delivery/README.md)
