@@ -81,3 +81,7 @@ ORBIT shows how I approach automation from operational responsibility: define th
 - [Technical architecture](docs/architecture.md)
 - [Two simulated operational journeys](docs/scenarios.md)
 - [Caso de portfolio en español](docs/case-study.es.md)
+
+## Additional portfolio case study
+
+[Milano Cortina 2026 — IT readiness, multi-site operations and delivery leadership](Portfolio/milano-cortina-2026/README.md)
