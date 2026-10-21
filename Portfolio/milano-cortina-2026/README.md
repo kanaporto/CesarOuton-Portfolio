@@ -1,7 +1,7 @@
-# Milano Cortina 2026 Winter Olympics
-## IT service readiness, multi-site operations and delivery leadership
+# End-to-End IT Delivery for a Major International Event
+## Multi-site operations · Support-team leadership · Service continuity
 
-**Portfolio case study · Employer anonymised · First-person account · Retrospective ITIL Version 5 mapping**
+**Project context: Milano Cortina 2026 Winter Olympics · Portfolio case study · Employer anonymised · First-person account · Retrospective ITIL Version 5 mapping**
 
 ### The project
 
