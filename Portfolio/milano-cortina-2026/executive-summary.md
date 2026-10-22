@@ -2,8 +2,7 @@
 ## Executive Summary
 
 *Multi-site operations · Support-team leadership · Service continuity*  
-*Project context: Milano Cortina 2026 Winter Olympics*  
-*Portfolio case study · Employer anonymised · First-person account*
+*Project context: Milano Cortina 2026 Winter Olympics · Employer anonymised*
 
 ## Project at a glance
 
@@ -32,7 +31,7 @@
 
 Neat room systems · Zoom Rooms · Cisco video-conferencing · endpoint devices · network dependencies · AV and streaming coordination.
 
-I organise the work into six project phases and map them retrospectively to ITIL Version 5 concepts: **Discover** (sites, users and constraints) → **Design and Plan** (service model, team, coverage and contingencies) → **Deliver and Validate** (procurement, logistics, readiness and handover) → **Operate and Support** (live service, triage, change and reporting) → **Decommission and Close** (recovery and handover) → **Continual Improvement** (lessons and reusable runbooks). The four dimensions—Organisations and people, Value streams and processes, Information and technology, and Partners and suppliers—are woven through the lifecycle. This is a retrospective framework for explaining my work, not a claim that the organisation formally adopted ITIL.
+I map the work retrospectively to the ITIL Version 5 lifecycle: **Discover** (sites, users and constraints) → **Design and Plan** (service model, team, coverage and contingencies) → **Deliver and Validate** (procurement, logistics, readiness and handover) → **Operate and Support** (live service, triage, change and reporting) → **Decommission and Close** (recovery and handover) → **Continual Improvement** (lessons and reusable runbooks). The four dimensions—Organisations and people, Value streams and processes, Information and technology, and Partners and suppliers—are woven through the lifecycle. This is a retrospective framework for explaining my work, not a claim that the organisation formally adopted ITIL.
 
 **Read the complete case:** [Lifecycle, workstreams, challenges and evidence boundaries](lifecycle-and-workstreams.md).  
 **Project overview:** [README](README.md).
