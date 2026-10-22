@@ -1,7 +1,20 @@
 # End-to-End IT Delivery for a Major International Event
 ## Multi-site operations · Support-team leadership · Service continuity
 
-**Project context: Milano Cortina 2026 Winter Olympics · Portfolio case study · Employer anonymised · First-person account · Retrospective ITIL Version 5 mapping**
+**Project context: Milano Cortina 2026 Winter Olympics · Portfolio case study · Employer anonymised · First-person account · ITIL Version 5 lifecycle mapping**
+
+### Impact at a glance
+
+- I led the overall BizTech IT readiness and service-delivery project and directly managed the support team across the event sites.
+- I designed a remote-support-first model with targeted on-site coverage and retained capacity for changing requirements.
+- I coordinated a multi-site operation spanning the Dublin customer-support site, Milan office hub and public/private fan zone.
+- I designed the AV and sound solution for an overnight LA28 committee presentation request and coordinated delivery, testing and teardown within eight hours.
+- I coordinated technology for the CFO's all-hands and global employee livestream, adapting the setup to late changes and public-use constraints.
+- I used quieter periods to coordinate installation of three video-conferencing rooms in a separate Milan office.
+
+### Case guide
+
+[Project and role](#the-project) · [Leadership challenge](#the-leadership-challenge) · [Readiness and planning](#site-discovery-and-readiness-recovery) · [Logistics and technology](#logistics-and-technology) · [ITIL lifecycle](#how-i-ran-the-work) · [Results and evidence](#results-and-corroboration) · [Capabilities](#capabilities-demonstrated)
 
 ### The project
 
@@ -37,7 +50,7 @@ The project technology scope included Neat room systems, Zoom Rooms, Cisco video
 
 ### How I ran the work
 
-I structure this case around six project phases and map them retrospectively to **ITIL Version 5 concepts** to make the project method visible: how I moved from understanding demand to planning, delivery, live service, controlled close-out and learning. This is a retrospective mapping of my work, not a claim that the organisation formally adopted ITIL for the project. The sequence also does not imply that live support stopped between phases; support operated continuously while delivery and change continued.
+I use the **ITIL Version 5 service lifecycle** to make the project method visible: how I moved from understanding demand to planning, delivery, live service, controlled close-out and learning. This is a retrospective mapping of my work, not a claim that the organisation formally adopted ITIL for the project. The sequence also does not imply that live support stopped between phases; support operated continuously while delivery and change continued.
 
 - **Discover:** assess each site, user group, venue use, constraints and service dependencies.
 - **Design and Plan:** define the remote-support-first model, support-team roles and rotations, site coverage, requirements, budget inputs and fallback capacity.
@@ -66,12 +79,6 @@ My former employer's performance review recognised the support plan, hardware pr
 
 The event was described to me as a multimillion-euro investment; my remit was the IT readiness workstream.
 
-### Scale at a glance
-
-- **Planning horizon:** approximately eight months.
-- **People in scope:** more than 200, based on my account as deployment coordinator.
-- **On-site work:** approximately 40 days in Milan, based on my account.
-
 This README is the project overview. The complete case, with the lifecycle, workstreams, challenges and evidence boundaries, is in [`lifecycle-and-workstreams.md`](lifecycle-and-workstreams.md). For a fast recruiter-facing read, see the [executive summary](executive-summary.md). ITIL terminology is linked to [PeopleCert's ITIL Foundation (Version 5)](https://www.peoplecert.org/browse-certifications/it-governance-and-service-management/ITIL-1/itil-5-foundation-version-50-4154).
 
 ### Capabilities demonstrated
@@ -80,4 +87,4 @@ IT service readiness · multi-site service delivery · support-team design and c
 
 ### Portfolio boundaries
 
-The event is public and named; the employer and its branded event-space name are omitted. Specialist teams retained ownership of their engineering implementation. This case omits supplier identities, exact addresses, security configurations, purchase references and private commercial terms. First-hand account and source-attributed outcomes are identified in the evidence and wording controls in the complete case.
+The event is public and named; the employer and its branded event-space name are omitted. Specialist teams retained ownership of their engineering implementation. This case omits supplier identities, exact addresses, security configurations, purchase references and private commercial terms. First-hand account and source-attributed outcomes are identified in the evidence notes.
