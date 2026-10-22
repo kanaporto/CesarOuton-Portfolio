@@ -1,7 +1,7 @@
 # End-to-End IT Delivery for a Major International Event
 ## Complete Case Study · Milano Cortina 2026
 
-This is the complete project case study, covering the project context, my remit, all lifecycle phases, cross-functional workstreams, challenges, outcomes and evidence boundaries. For the concise recruiter-facing version, see [`executive-summary.md`](executive-summary.md). The employer is anonymised. I map the work retrospectively to ITIL Version 5 to explain the service lifecycle and management practices; this does not mean the organisation formally adopted ITIL for the project.
+This is the complete project case study, covering the project context, my remit, all lifecycle phases, cross-functional workstreams, challenges, outcomes and evidence boundaries. For the concise recruiter-facing version, see [`../executive-summary.md`](../executive-summary.md). The employer is anonymised. I map the work retrospectively to ITIL Version 5 to explain the service lifecycle and management practices; this does not mean the organisation formally adopted ITIL for the project.
 
 ## Context and my remit
 
@@ -17,7 +17,7 @@ Two examples of the live challenges—the CFO all-hands and an overnight LA28 re
 
 The work sat within a wider support model that covered everyday employee issues through complex on-site executive needs. I designed support as remote-first, with targeted on-site coverage, to reduce the number of people who needed to be physically present while retaining support for both standard users and executives. The Dublin customer-support site handled additional event-driven demand. At the Milan office hub, I planned desk and monitor capacity for more than 200 employees rotating by team, and coordinated calendar use of limited private rooms to meet executive needs while making them available to Legal, Finance, Partner Support and other teams. The fan zone had a distinct dual use: open to the public at some times and used for private partner events at others. This operating context required flexible coverage and clear ownership as needs changed.
 
-## Project lifecycle flow · retrospective ITIL Version 5 mapping
+## Lifecycle flow
 
 ```mermaid
 flowchart TD
@@ -100,7 +100,7 @@ Jeff's recommendation says I turned fixes into reusable runbooks so others could
 | Information and technology | Workplace requirements, network and connectivity dependencies, video conferencing, AV, streaming and signage |
 | Partners and suppliers | Specialist engineering teams, event stakeholders, vendors, hardware suppliers and connectivity providers |
 
-The project lifecycle gives the case its end-to-end structure, while the four dimensions make the people, process, technology and partner dependencies visible across every phase. They are applied throughout the project rather than treated as separate workstreams. This is a retrospective use of ITIL Version 5 concepts for portfolio presentation, not evidence of an organisational ITIL implementation.
+The lifecycle gives the case its end-to-end structure, while the four dimensions make the people, process, technology and partner dependencies visible across every phase. They are applied throughout the project rather than treated as separate workstreams. This is a retrospective use of ITIL Version 5 concepts for portfolio presentation, not evidence of an organisational ITIL implementation.
 
 ## Evidence and wording controls
 
@@ -111,4 +111,4 @@ The project lifecycle gives the case its end-to-end structure, while the four di
 - **Financial scope:** the multimillion-euro figure describes the wider event context as reported to me; no IT budget or personal control over total event spend is claimed.
 - **Anonymity:** the event is public and named; the employer and its branded event-space name are omitted. Internal project identifiers, vendor names, exact addresses, security configurations and commercial terms stay private.
 
-For the project overview, summary diagram and concise leadership account, see [`README.md`](README.md). The official ITIL reference is [PeopleCert ITIL Foundation (Version 5)](https://www.peoplecert.org/browse-certifications/it-governance-and-service-management/ITIL-1/itil-5-foundation-version-50-4154).
+For the project overview, summary diagram and concise leadership account, see [`../README.md`](../README.md). The official ITIL reference is [PeopleCert ITIL Foundation (Version 5)](https://www.peoplecert.org/browse-certifications/it-governance-and-service-management/ITIL-1/itil-5-foundation-version-50-4154).
