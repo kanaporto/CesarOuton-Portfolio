@@ -1,17 +1,17 @@
 # César Outón | Senior IT Support Engineer — Global IT Operations & Program Leadership
 
-Mi experiencia combina soporte técnico senior con liderazgo operativo de programas internacionales de IT. He liderado iniciativas globales, supervisado equipos regionales y coordinado áreas internas y proveedores para mejorar servicios, procesos y experiencia de usuario a escala.
+My experience combines senior IT support with the operational leadership of international IT programs. I have led global initiatives, supervised regional teams, and coordinated internal functions and vendors to improve services, processes, and employee experience at scale.
 
-Este portfolio amplía lo que presento en mi currículum con ejemplos concretos de cómo convierto necesidades operativas en planes de trabajo, alineo a las personas implicadas y acompaño la ejecución hasta su puesta en marcha. Incluye un programa móvil que abarcó **16 operadores en 15 países**, la supervisión de **siete Mobile Ambassadors**, proyectos de mejora global de onboarding y gestión de infraestructura workplace. La automatización y la IA aparecen como herramientas para escalar y mejorar ese trabajo, no como sustituto de mi experiencia en IT.
+This portfolio expands on my CV with practical examples of how I turn operational needs into structured plans, align the people involved, and guide delivery through implementation. It includes a mobile program spanning **16 carriers across 15 countries**, supervision of **seven Mobile Ambassadors**, global onboarding improvement, and workplace infrastructure delivery. Automation and AI feature as tools I use to improve and scale this work, alongside my broader IT experience.
 
-## Casos del portfolio
+## Portfolio cases
 
-- **[Global Mobile Program: Roadmap and Operational Improvement](Portfolio/global-mobile-program-roadmap/)** — liderazgo de programa, supervisión regional, roadmap ligado a OKRs, vendor management y mejoras operativas mediante automatización e IA.
-- **[Revamp Onboarding A to Z](Portfolio/global-onboarding-process-improvement/)** — liderazgo de una iniciativa global para alinear regiones y establecer una base común de mejora continua del onboarding.
-- **[Infrastructure Project Management: HQ Workplace AV Refit](Portfolio/workplace-av-infrastructure-delivery/)** — gestión de la parte de infraestructura AV en HQ, coordinando proveedor, construcción, stakeholders, calendario, presupuesto y puesta en marcha.
-- **[IT Delivery for Milano Cortina 2026](Portfolio/milano-cortina-2026/)** — liderazgo operativo del soporte en varios emplazamientos, con planificación adaptable y coordinación entre equipos en un entorno de alta presión.
-- **[ORBIT — AI-assisted IT Operations](Portfolio/orbit-ai-operations/)** — concepto de automatización asistida por IA con controles y verificación. Es un caso de diseño con escenarios simulados, no un resultado de producción.
+- **[Global Mobile Program: Roadmap and Operational Improvement](Portfolio/global-mobile-program-roadmap/)** — program leadership, regional team supervision, an OKR-aligned roadmap, vendor management, and operational improvements through automation and applied AI.
+- **[Revamp Onboarding A to Z](Portfolio/global-onboarding-process-improvement/)** — leadership of a global initiative to align regions and establish a shared foundation for continuous onboarding improvement.
+- **[Infrastructure Project Management: HQ Workplace AV Refit](Portfolio/workplace-av-infrastructure-delivery/)** — management of the HQ AV infrastructure workstream, coordinating the vendor, construction team, stakeholders, schedule, budget, and delivery.
+- **[IT Delivery for Milano Cortina 2026](Portfolio/milano-cortina-2026/)** — operational leadership of support across multiple sites, with adaptive planning and cross-team coordination in a high-pressure environment.
+- **[ORBIT — AI-assisted IT Operations](Portfolio/orbit-ai-operations/)** — an AI-assisted automation concept with controls and verification. This is a design case using simulated scenarios, not a production result.
 
-Cada caso explica mi responsabilidad, las decisiones que tomé y los resultados documentados, distinguiendo el trabajo completado de las iniciativas en curso y de los diseños simulados.
+Each case explains my role, decisions, and documented outcomes, distinguishing completed work from initiatives in progress and simulated designs.
 
-[Ver todos los casos](Portfolio/) · [Ver resúmenes ejecutivos](Portfolio/resumen/README.md)
+[Browse all cases](Portfolio/) · [Read the executive summaries](Portfolio/resumen/README.md)
