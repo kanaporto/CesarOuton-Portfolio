@@ -1,6 +1,10 @@
 # Revamp Onboarding A to Z
 ## Cross-regional IT process improvement · Project leadership · Continuous improvement
 
+### Case guide
+
+[My initiative](#the-challenge-and-my-initiative) · [My contribution](#my-direct-contribution) · [Improvements that followed](#improvements-that-followed) · [Lifecycle](#project-lifecycle) · [Relevance](#relevance-to-senior-it-roles)
+
 ### The challenge and my initiative
 
 I identified that employee IT onboarding varied across regions, creating an inconsistent experience and repeating the same operational problems in different teams. Because the issue was global, it needed a coordinated response and agreement across regions—not another local fix.
