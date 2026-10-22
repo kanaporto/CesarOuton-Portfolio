@@ -4,6 +4,8 @@ Selected case studies in global IT operations, service delivery, workplace techn
 
 Each case opens with its own overview. Longer projects include an executive summary and supporting detail. Employer identities and sensitive operational information are anonymised where appropriate.
 
+**[Browse all executive summaries](Portfolio/resumen/README.md)**
+
 ## Portfolio
 
 ### [ORBIT — AI-assisted IT operations](Portfolio/orbit-ai-operations/README.md)
