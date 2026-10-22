@@ -1,6 +1,18 @@
 # Infrastructure Project Management: HQ Workplace AV Refit
 ## Infrastructure project management · Workplace technology · Cross-functional delivery
 
+### Impact at a glance
+
+- I led the client-side AV workstream through planning, procurement, vendor/construction coordination, delivery, readiness, handover and decommissioning.
+- Career-review and promotion materials report three gathering spaces delivered on schedule, with AV reused and upgraded.
+- I coordinated the AV vendor, construction, Workplace, Real Estate, architects and Systems, tracking actions and dependencies in Asana.
+- On-site camera tests and evidence led stakeholders to agree on a technically suitable position and redesign a piece of furniture to protect the user experience.
+- I make no quantified savings or service-performance claims because reliable metrics are unavailable.
+
+### Case guide
+
+[Project objective](#project-objective) · [My role](#my-role) · [Delivery lifecycle](#end-to-end-delivery-and-lifecycle) · [Technical decision](#delivery-challenge-protect-the-user-experience) · [Results and scope](#results-and-scope) · [Evidence boundaries](#evidence-and-publication-boundaries)
+
 ### Project objective
 
 The project took place at the company's headquarters and supported remote-first work, optional office attendance and global team gatherings. Workplace set room dimensions and capacities. As Infrastructure Project Manager, I led the client-side AV workstream through its full lifecycle, from discovery and planning to delivery, operational handover and closeout.
