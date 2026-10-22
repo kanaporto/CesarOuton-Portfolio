@@ -1,6 +1,12 @@
 # Revamp Onboarding A to Z
 ## Cross-regional IT process improvement · Project leadership · Continuous improvement
 
+### Impact at a glance
+
+- The brainstorming documented **32 reported friction points** across the global onboarding process.
+- Regional stakeholders agreed on a shared onboarding baseline that allowed for local requirements.
+- The baseline was applied and informed follow-on improvements; the project remains active under later colleagues’ ongoing leadership.
+
 ### Case guide
 
 [My initiative](#the-challenge-and-my-initiative) · [My contribution](#my-direct-contribution) · [Improvements that followed](#improvements-that-followed) · [Lifecycle](#project-lifecycle) · [Relevance](#relevance-to-senior-it-roles)
